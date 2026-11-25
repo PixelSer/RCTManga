@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fiUy/9uydib1ZDzgPJB9zeGcMNhfTLYoXjY63/WDh0E=",
+  "Source": "ManfaTracker.Api",
+  "BasePath": "_content/ManfaTracker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

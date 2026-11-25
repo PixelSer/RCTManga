@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|c:\\pixelser\\study\\visualstudio\\manfatracker.api\\manfatracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|solutionrelative:manfatracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|c:\\pixelser\\study\\visualstudio\\manfatracker.api\\manfatracker.api\\mangacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|solutionrelative:manfatracker.api\\mangacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|c:\\pixelser\\study\\visualstudio\\manfatracker.api\\manfatracker.api\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|solutionrelative:manfatracker.api\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|c:\\pixelser\\study\\visualstudio\\manfatracker.api\\manfatracker.api\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146884ED-38A8-4A51-98D5-823B052E18B7}|ManfaTracker.Api\\ManfaTracker.Api.csproj|solutionrelative:manfatracker.api\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ManfaTracker.Api\\Program.cs",
+              "ToolTip": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\Program.cs",
+              "RelativeToolTip": "ManfaTracker.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T17:29:05.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MangaController.cs",
+              "DocumentMoniker": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\MangaController.cs",
+              "RelativeDocumentMoniker": "ManfaTracker.Api\\MangaController.cs",
+              "ToolTip": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\MangaController.cs",
+              "RelativeToolTip": "ManfaTracker.Api\\MangaController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T17:28:07.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ManfaTracker.Api\\AppDbContext.cs",
+              "ToolTip": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\AppDbContext.cs",
+              "RelativeToolTip": "ManfaTracker.Api\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T17:27:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\Models.cs",
+              "RelativeDocumentMoniker": "ManfaTracker.Api\\Models.cs",
+              "ToolTip": "C:\\PIxelser\\Study\\visualstudio\\ManfaTracker.Api\\ManfaTracker.Api\\Models.cs",
+              "RelativeToolTip": "ManfaTracker.Api\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T17:27:12.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
